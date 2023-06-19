@@ -1,13 +1,17 @@
 def add(a, b):
+    # Addition operation
     return a + b
 
 def sub(a, b):
+    # Subtraction operation
     return a - b
 
 def mul(a, b):
+    # Multiplication operation
     return a * b
 
 def div(a, b):
+    # Division operation
     return a / b
 
 if __name__ == "__main__":
